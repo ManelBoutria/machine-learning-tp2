@@ -1,8 +1,5 @@
-# Machine Learning, Practical Session 2: Standardized PCA
+# Machine Learning, TP2: Standardized PCA
 
-**Student:** Boutria Manal
-**School:** National Higher School of Advanced Technologies (ENSTA)
-**Level:** First-year Master's degree, academic year 2026-2027
 
 ## Objective
 
@@ -15,19 +12,6 @@ Scikit-learn.
 Grades of six students (S1 to S6) in four subjects: Mathematics, Statistics,
 Programming and Algorithms.
 
-## Files
-
-| File | Description |
-|---|---|
-| `pca_tp2.py` | Full implementation (Part A, B and C) |
-| `results/pca_comparison.png` | Students plotted on PC1/PC2, from scratch vs Scikit-learn |
-
-## How to run
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-python pca_tp2.py
-```
 
 ## Method
 
